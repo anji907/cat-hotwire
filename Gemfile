@@ -66,3 +66,5 @@ gem "kaminari"
 
 # search
 gem "ransack"
+
+gem "bootstrap_form"
