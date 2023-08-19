@@ -63,3 +63,6 @@ end
 
 # paginatioin
 gem "kaminari"
+
+# search
+gem "ransack"
